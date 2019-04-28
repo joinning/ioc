@@ -2,6 +2,7 @@ package com.spring.ioc.main;
 
 public class DependencyInjectionDemo {
 
+    //控制反转是原则，依赖注入是方式。
     public static void main(String[] args) {
         /*
            通过setter进行注入
