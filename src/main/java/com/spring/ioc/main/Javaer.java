@@ -1,6 +1,6 @@
 package com.spring.ioc.main;
 
-public class Javaer {
+public class Javaer implements Coder {
     private String name;
 
     public Javaer(String name) {
